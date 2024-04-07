@@ -1,6 +1,6 @@
 # PDF Question Answering Web Application
 
-Welcome to our PDF Question Answering Web Application! This application allows users to ask questions related to PDF documents uploaded by them. We utilize the Gemini conversational AI model to generate answers based on the content of the PDF files.
+Welcome to my PDF Question Answering Web Application! This application allows users to ask questions related to PDF documents uploaded by them. We utilize the Gemini conversational AI model to generate answers based on the content of the PDF files.
 
 ## Architecture
 
